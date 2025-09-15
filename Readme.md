@@ -1,4 +1,4 @@
-# Beyond Career 
+# TextTint
 
 A React application built with Vite for fast development and optimized builds.
 
@@ -53,3 +53,4 @@ The application will start running on `http://localhost:5173` (Vite's default po
 ## Available Scripts
 
 - `npm run dev` - Start the development server
+
